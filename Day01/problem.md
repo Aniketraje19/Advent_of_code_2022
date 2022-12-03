@@ -51,4 +51,4 @@ In the example above, the top three Elves are the fourth Elf (with 24000 Calorie
 
  Puzzle answer was 212117.</b>
 
-<u>Both parts of this puzzle are complete! They provide two gold stars: ** </u>
+<i>Both parts of this puzzle are complete! They provide two gold stars: ** </i>

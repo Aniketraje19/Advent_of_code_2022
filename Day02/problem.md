@@ -44,4 +44,4 @@ Now that you're correctly decrypting the ultra top secret strategy guide, you wo
 
  Puzzle answer was 16098</b>
 
-Both parts of this puzzle are complete! They provide two gold stars: **
+<i>Both parts of this puzzle are complete! They provide two gold stars: **</i>

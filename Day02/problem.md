@@ -15,9 +15,10 @@ Since you can't be sure if the Elf is trying to help you or trick you, you shoul
 
 For example, suppose you were given the following strategy guide:
 
-A Y
-B X
-C Z
+A Y <br>
+B X <br>
+C Z <br>
+
 This strategy guide predicts and recommends the following:
 
 In the first round, your opponent will choose Rock (A), and you should choose Paper (Y). This ends in a win for you with a score of 8 (2 because you chose Paper + 6 because you won).
@@ -25,9 +26,9 @@ In the second round, your opponent will choose Paper (B), and you should choose 
 The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.
 In this example, if you were to follow the strategy guide, you would get a total score of 15 (8 + 1 + 6).
 
-What would your total score be if everything goes exactly according to your strategy guide?
+<b>What would your total score be if everything goes exactly according to your strategy guide?
 
-<b>Puzzle answer was 15572</b>
+Puzzle answer was 15572</b>
 
 ## --- Part Two ---
 The Elf finishes helping with the tent and sneaks back over to you. "Anyway, the second column says how the round needs to end: X means you need to lose, Y means you need to end the round in a draw, and Z means you need to win. Good luck!"
@@ -39,8 +40,8 @@ In the second round, your opponent will choose Paper (B), and you choose Rock so
 In the third round, you will defeat your opponent's Scissors with Rock for a score of 1 + 6 = 7.
 Now that you're correctly decrypting the ultra top secret strategy guide, you would get a total score of 12.
 
-Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
+<b>Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 
-<b> Puzzle answer was 16098</b>
+ Puzzle answer was 16098</b>
 
 Both parts of this puzzle are complete! They provide two gold stars: **

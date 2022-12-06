@@ -53,3 +53,5 @@ for i in range(0,total_stacks):
 
 print(part1Ans)
 print(part2Ans)
+
+f.close() 
